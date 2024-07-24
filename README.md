@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://stephanie-devs.vercel.app/)
 <h1 align="center">Hi 👋, I'm Stephanie Encomienda</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://camo.githubusercontent.com/b81466b358952435e252c65fbdd538ecf1da40656056cef0a19c00b67f41d54e/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966”>
+<h3 align="center">A passionate front-end developer from Philippines</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 🌱 I’m currently learning **Nuxt.JS and taking a course on Coursera**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **stphnencomienda30@gmail.com**
 
-- ⚡ Fun fact **I am an introvert!**
+- ⚡ Fun fact **I am an introvert! Not so fun, i guess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
