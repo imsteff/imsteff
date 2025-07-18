@@ -3,15 +3,13 @@
 <h3 align="center">A passionate front-end developer from Philippines</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
-- 🌱 I’m currently learning **Nuxt.JS and taking a course on Coursera**
-
 - 👨‍💻 All of my projects are available at [https://stephanie-devs.vercel.app/](https://stephanie-devs.vercel.app/)
 
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **stphnencomienda30@gmail.com**
 
-- ⚡ Fun fact **I am an introvert! Not so fun, i guess**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
