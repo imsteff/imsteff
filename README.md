@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://stephanie-devs.vercel.app/)
 <h1 align="center">Hi 👋, I'm Stephanie Encomienda</h1>
-<h3 align="center">A passionate front-end developer from Philippines</h3>
+<h3 align="center">A Fullstack developer from Philippines</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 👨‍💻 All of my projects are available at [https://stephanie-devs.vercel.app/](https://stephanie-devs.vercel.app/)
